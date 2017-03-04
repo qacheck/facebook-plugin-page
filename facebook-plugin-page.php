@@ -4,7 +4,7 @@ Plugin Name: Facebook Plugin Page
 Description: The Page plugin lets you easily embed and promote any Facebook Page on your website. Just like on Facebook, your visitors can like and share the Page without leaving your site. [ Plugin Trang cho phép bạn dễ dàng nhúng và quảng cáo bất kỳ Trang Facebook nào trên trang web của bạn. Giống như trên Facebook, khách truy cập có thể thích và chia sẻ Trang mà không cần rời khỏi trang web của bạn. ]
 Author: Quach Quang Ngoc
 Version: 2.8
-Author URI: http://web.sps.vn/
+Author URI: http://dev.sps.vn/
 */
 
 if ( ! defined( 'WPINC' ) ) {
